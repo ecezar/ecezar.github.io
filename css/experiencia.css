@@ -52,6 +52,7 @@
   font-size: 1.25rem;
   line-height: 1.1;
   font-weight: bold;
+  align-self: center;
 }
 .empresa-texto {
   font-size: 0.875rem;
